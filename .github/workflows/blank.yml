@@ -1,6 +1,6 @@
 number=int(input("Dose enan arithmo:"))
 
-while number>9:
+while (number>9):
   number*=3
   print ("O arithmos epi 3", int(number))
   number+=1
